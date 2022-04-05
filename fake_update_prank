@@ -1,3 +1,6 @@
+REM The script is tested on windows10 and written for the Malduino bad USB. If you are using a rubber ducky, remove the first LOCALE line.
+REM Feel free to change the delays as it suits your system.
+REM Author: 5k4r5
 LOCALE US
 DELAY 2000
 GUI x
