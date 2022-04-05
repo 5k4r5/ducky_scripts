@@ -1,0 +1,18 @@
+LOCALE US
+DELAY 2000
+GUI x
+DELAY 300
+STRING a
+DELAY 1000
+ALT y
+DELAY 1500
+STRING start microsoft-edge:https://fakeupdate.net/win10ue/
+ENTER
+DELAY 500
+STRING exit
+ENTER
+DELAY 2000
+ALT TAB
+DELAY 500
+F11
+
